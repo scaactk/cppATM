@@ -1,4 +1,0 @@
-﻿  ATM.cpp
-c:\users\11497\desktop\atm_test\atm_test\center.h(205): warning C4715: 'ATM::writeTxt': not all control paths return a value
-  ATM_TEST.vcxproj -> C:\Users\11497\Desktop\ATM_TEST\Debug\ATM_TEST.exe
-  ATM_TEST.vcxproj -> C:\Users\11497\Desktop\ATM_TEST\Debug\ATM_TEST.pdb (Full PDB)
